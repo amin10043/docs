@@ -1760,5 +1760,9 @@ module.exports = [
   {
     from: '/support/sla',
     to: '/support/sld'
-  }
+  },
+  {
+     from: '/applications/application-settings/non-interactive',
+     to: '/applications/application-settings/machine-to-machine'
+   }
 ];
